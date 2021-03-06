@@ -1,7 +1,7 @@
 # extra_video_torchvision
 Some extra video transforms in pytorch.
 
-The idea was to increase some extra [torchvision]{https://github.com/pytorch/vision/tree/master/torchvision/} transforms for video inputs. (The code is therefore widely based on the code from this repository)
+The idea was to increase some extra [torchvision](https://github.com/pytorch/vision/tree/master/torchvision/) transforms for video inputs. (The code is therefore widely based on the code from this repository)
 
 This repository works with torchvision well. It means that the Transforms can be composed just as in torchvision with video_transforms.Compose.
 
