@@ -37,7 +37,7 @@ in **torchvision.transforms._transforms_video**
 ## How to use ##
 1. Copy the path src to your project
 2. Import the transforms from src/tranforms_video
-3. Emjoy!!
+3. Enjoy!!
 
 
 
